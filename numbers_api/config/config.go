@@ -9,7 +9,7 @@ import (
 
 // APIPort receives the value from .env
 var APIPort = ""
-
+	
 // Load configurations for API
 func LoadConfig() {
 	var err error
